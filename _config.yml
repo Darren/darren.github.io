@@ -1,0 +1,11 @@
+# Site settings
+title: Darren's Ramblings
+description: "..."
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: darren_hoo
+github_username:  darren
+
+# Build settings
+markdown: kramdown
+permalink: pretty
